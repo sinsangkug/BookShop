@@ -2,6 +2,7 @@
 <!DOCTYPE configuration 	PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
 	"http://mybatis.org/dtd/mybatis-3-config.dtd">
 
+<!--  주석 -->
 <configuration>
   <typeAliases>
     <typeAlias type="com.bookshop01.goods.vo.GoodsVO" alias="goodsVO" />
